@@ -7,11 +7,6 @@ You can click the Preview link to take a look at your changes.
 
 Talk to me on Telegram @fluttercto 🐦
 
-About Me
+<h1>About Me</h1>
 ⚡ : Fun fact I love to Google flutter related material.
 
-🌐 Socials:
-Discord LinkedIn Medium Twitter
-
-💻 Tech Stack:
-Dart Jira Postman Figma MongoDB MySQL Flutter Firebase LaTeX C++ HTML5 CSS3 Java JavaScript
