@@ -18,4 +18,7 @@ Talk to me on Telegram @fluttercto 🐦
 
 <h1>📊 GitHub Stats:</h1>
 
+![bobga's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobga&hide=contribs,prs&theme=radical&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobga&layout=compact&theme=radical)](https://github.com/bobga/github-readme-stats)
+
+
