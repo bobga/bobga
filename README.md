@@ -52,3 +52,7 @@
 - Contributions: Active contributor to open-source projects, with a focus on mobile app development and web technologies.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobga&layout=compact&theme=radical&hide_title=true&langs_count=10)](https://github.com/bobga/github-readme-stats)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bobga)
+
+
