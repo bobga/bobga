@@ -1,12 +1,12 @@
-👋 Hi, I’m @bobga :) My main focus is developing mobile apps for clients using Flutter. I'm also eager to learn more about backend development and love sharing my experience and knowledge via articles. Fun fact: I love to Google Flutter related material.
+👋 Hi, I’m @bobga! I'm a passionate mobile app developer with a focus on Flutter. Over the past 5 years, I've built numerous mobile apps for clients, leveraging my expertise in Flutter, Dart, and native iOS development. I'm also eager to expand my skills into backend development and share my knowledge through articles and tutorials.
 
-🌐 Connect with me on [![Telegram](https://img.shields.io/badge/Telegram-@fluttercto-blue?style=for-the-icon&logo=telegram)](https://t.me/fluttercto) [![Gmail](https://img.shields.io/badge/Gmail-virtium1000%40gmail.com-red?style=for-the-icon&logo=gmail)](mailto:virtium1000@gmail.com) [![Skype](https://img.shields.io/badge/Skype-live%3A.cid.ffc8dbb48253283b-blue?style=for-the-icon&logo=skype)](skype:live:.cid.ffc8dbb48253283b)
-
-
-
-
-
+🌐 Connect with me:
+- [![Telegram](https://img.shields.io/badge/Telegram-@fluttercto-blue?style=for-the-icon&logo=telegram)](https://t.me/fluttercto)
+- [![Gmail](https://img.shields.io/badge/Gmail-virtium1000%40gmail.com-red?style=for-the-icon&logo=gmail)](mailto:virtium1000@gmail.com)
+- [![Skype](https://img.shields.io/badge/Skype-live%3A.cid.ffc8dbb48253283b-blue?style=for-the-icon&logo=skype)](skype:live:.cid.ffc8dbb48253283b)
+  
 ### 💻 Tech Stack:
+
 ![Flutter](https://img.shields.io/badge/Flutter-5_years-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-5_years-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Native iOS](https://img.shields.io/badge/Native_iOS-8_years-000000?style=flat-square&logo=apple&logoColor=white)
@@ -26,7 +26,23 @@
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-10_years-1572B6?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-10_years-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+#### Mobile Development:
+- Flutter (5 years): Developed cross-platform mobile apps for various clients, delivering smooth and responsive user experiences.
+- Dart (5 years): Leveraged Dart's strong typing and asynchronous programming features to build efficient Flutter apps.
+- Native iOS (8 years): Designed and developed native iOS apps using Swift, ensuring seamless integration with Apple's ecosystem.
+
+#### Backend Development:
+- Laravel (10 years): Built robust backend systems and RESTful APIs using Laravel, facilitating data management and authentication.
+- PHP (10 years): Implemented server-side logic and database interactions for web and mobile applications, ensuring scalability and performance.
+- GraphQL (4 years): Explored GraphQL as an alternative to REST for more flexible and efficient data fetching in web and mobile apps.
+
+#### Frontend Development:
+- React.js (5 years): Developed interactive user interfaces and reusable UI components using React.js, enhancing frontend development efficiency.
+- HTML/CSS (10 years): Designed and styled web interfaces with HTML and CSS, focusing on responsive design and accessibility.
+- JavaScript (10 years): Implemented client-side scripting and dynamic content generation using JavaScript, enriching user interactions.
 
 ### 📊 GitHub Stats:
+- Top Languages: JavaScript, Dart, PHP
+- Contributions: Active contributor to open-source projects, with a focus on mobile app development and web technologies.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobga&layout=compact&theme=radical&hide_title=true&langs_count=10)](https://github.com/bobga/github-readme-stats)
