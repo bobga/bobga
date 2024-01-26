@@ -1,3 +1,9 @@
+
+[![GitHub stars](https://img.shields.io/github/stars/bobga/bobga?style=social)](https://github.com/bobga/bobga/stargazers)
+[![GitHub followers](https://img.shields.io/github/followers/bobga?style=social)](https://github.com/bobga)
+
+
+
 👋 Hi, I’m @bobga! I'm a passionate mobile app developer with a focus on Flutter. Over the past 5 years, I've built numerous mobile apps for clients, leveraging my expertise in Flutter, Dart, and native iOS development. I'm also eager to expand my skills into backend development and share my knowledge through articles and tutorials.
 
 🌐 Connect with me:
