@@ -8,8 +8,8 @@
 
 🌐 Connect with me:
 - [![Telegram](https://img.shields.io/badge/Telegram-@fluttercto-blue?style=for-the-icon&logo=telegram)](https://t.me/fluttercto)
-- [![Gmail](https://img.shields.io/badge/Gmail-virtium1000%40gmail.com-red?style=for-the-icon&logo=gmail)](mailto:virtium1000@gmail.com)
 - [![Skype](https://img.shields.io/badge/Skype-live%3A.cid.ffc8dbb48253283b-blue?style=for-the-icon&logo=skype)](https://web.skype.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-virtium1000%40gmail.com-red?style=for-the-icon&logo=gmail)](mailto:virtium1000@gmail.com)
   
 ### 💻 Tech Stack:
 
