@@ -4,7 +4,10 @@
 
 
 
-👋 Hi, I’m @bobga! I'm a passionate mobile app developer with a focus on Flutter. Over the past 5 years, I've built numerous mobile apps for clients, leveraging my expertise in Flutter, Dart, and native iOS development. I'm also eager to expand my skills into backend development and share my knowledge through articles and tutorials.
+👋 Hi, I’m @bobga!
+🚀 Senior Flutter Developer | Mobile App Expert | Dart & Firebase Specialist
+
+Passionate Flutter developer with 5+ years of experience building high-performance cross-platform apps for startups and enterprises. Skilled in Dart, native iOS (Swift), and backend integration (Node.js/Firebase). Currently expanding into cloud architecture (AWS/Azure) and sharing insights through technical tutorials.
 
 🌐 Connect with me:
 - [![Telegram](https://img.shields.io/badge/Telegram-@fluttercto-blue?style=for-the-icon&logo=telegram)](https://t.me/fluttercto)
