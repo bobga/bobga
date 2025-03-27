@@ -53,7 +53,7 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-virtium1000@gmail.com-D14836?logo=gmail"/>
   </a>
   <a href="https://teams.microsoft.com/l/chat/0/0?users=virtium1000@gmail.com">
-    <img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft_Teams-Schedule_Meeting-6264A7?logo=microsoft-teams"/>
+    <img alt="Teams Chat" src="https://img.shields.io/badge/Microsoft_Teams-Chat_Now-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
   </a>
 </p>
 
