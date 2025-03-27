@@ -61,6 +61,3 @@
     <img alt="Teams" src="https://img.shields.io/badge/Teams-Chat-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
   </a>
 </p>
-
-📲 One-Click Donations
-<p align="left"> <!-- Bitcoin --> <a href="bitcoin:bc1qftzk4v82xe4ytp72005mmxw0yasux48wgyr2g7"> <img alt="BTC" src="https://img.shields.io/badge/Bitcoin-Donate-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white"/> </a> <!-- USDT ERC20 --> <a href="https://metamask.app.link/send/0x5127780DD4276076fFf423B907cD39330A19f10F"> <img alt="USDT ERC20" src="https://img.shields.io/badge/USDT_ERC20-Donate-26A17B?style=for-the-badge&logo=ethereum"/> </a> <!-- USDT BEP20 --> <a href="https://trustwallet.com/deeplink/send?address=0x5127780DD4276076fFf423B907cD39330A19f10F&chainId=56"> <img alt="USDT BEP20" src="https://img.shields.io/badge/USDT_BEP20-Donate-F0B90B?style=for-the-badge&logo=binance"/> </a> <!-- USDT TRC20 --> <a href="tronlink://send?contract=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t&address=THNK1wyrN2byrVHFM8eaqoC2M3Zegvvsx9"> <img alt="USDT TRC20" src="https://img.shields.io/badge/USDT_TRC20-Donate-FB5819?style=for-the-badge&logo=tron"/> </a> </p>
