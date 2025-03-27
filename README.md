@@ -46,14 +46,19 @@
 ## 📫 Let's Connect
 
 <p align="left">
+  <!-- Telegram -->
   <a href="https://t.me/fluttercto">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@fluttercto-26A5E4?logo=telegram"/>
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@fluttercto-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+  
+  <!-- Gmail -->
   <a href="mailto:virtium1000@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-virtium1000@gmail.com-D14836?logo=gmail"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-virtium1000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
+  <!-- Microsoft Teams -->
   <a href="https://teams.microsoft.com/l/chat/0/0?users=virtium1000@gmail.com">
-    <img alt="Teams Chat" src="https://img.shields.io/badge/Microsoft_Teams-Chat_Now-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
+    <img alt="Teams" src="https://img.shields.io/badge/Teams-Chat-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
   </a>
 </p>
 
