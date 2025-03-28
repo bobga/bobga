@@ -6,6 +6,25 @@
 
 🚀 **5+ Years Experience** in Flutter Development | 🍏 **8+ Years iOS Native** | 🔥 **Firebase & AWS Expert**
 
+## 📫 Let's Connect
+
+<p align="left">
+  <!-- Telegram -->
+  <a href="https://t.me/fluttercto">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@fluttercto-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:virtium1000@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-virtium1000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <!-- Microsoft Teams -->
+  <a href="https://teams.microsoft.com/l/chat/0/0?users=virtium1000@gmail.com">
+    <img alt="Teams" src="https://img.shields.io/badge/Teams-Chat-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
+  </a>
+</p>
+
 ## 🔥 Featured Skills
 
 ### 📱 Mobile Development
@@ -43,21 +62,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobga&layout=compact&theme=radical&hide_title=true"/>
 </div>
 
-## 📫 Let's Connect
 
-<p align="left">
-  <!-- Telegram -->
-  <a href="https://t.me/fluttercto">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@fluttercto-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  
-  <!-- Gmail -->
-  <a href="mailto:virtium1000@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-virtium1000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <!-- Microsoft Teams -->
-  <a href="https://teams.microsoft.com/l/chat/0/0?users=virtium1000@gmail.com">
-    <img alt="Teams" src="https://img.shields.io/badge/Teams-Chat-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
-  </a>
-</p>
