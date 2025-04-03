@@ -6,6 +6,15 @@
 
 🚀 **5+ Years Experience** in Flutter Development | 🍏 **8+ Years iOS Native** | 🔥 **Firebase & AWS Expert**
 
+> Passionate about creating exceptional mobile experiences and scalable solutions. Specializing in cross-platform development with Flutter and native iOS applications.
+
+## 🎯 Current Focus
+
+- 🔥 Building scalable Flutter applications with clean architecture
+- 🌐 Developing cloud-native solutions with AWS and Firebase
+- 📱 Creating performant mobile experiences
+- 🤝 Open to exciting new opportunities and collaborations
+
 ## 📫 Let's Connect
 
 <p align="left">
@@ -24,6 +33,14 @@
   </a>
 </p>
 
+## 🏆 Notable Achievements
+
+- 🏅 **50+ Production Flutter Apps** - Built with 95% code reuse
+- 🌟 **20+ iOS Apps** - Published on App Store with 4.8+ average rating
+- 🚀 **High-Performance APIs** - Developed REST/GraphQL APIs handling 10K+ RPM
+- 💻 **15+ PWAs** - Built with Next.js and server-side rendering
+- ☁️ **Cloud Architecture** - Expert in AWS/Azure and Firebase implementations
+
 ## 🔥 Featured Skills
 
 ### 📱 Mobile Development
@@ -33,9 +50,9 @@
   <img alt="iOS" src="https://img.shields.io/badge/iOS_Swift-8+years-FA7343?logo=swift&style=for-the-badge"/>
 </p>
 
-- Built **50+ production-ready Flutter apps** with 95% code reuse
-- Published **20+ iOS apps** on App Store with 4.8+ average rating
 - Expert in **state management** (Riverpod, Bloc) and **performance optimization**
+- Specialized in **cross-platform development** and **native integration**
+- Proficient in **CI/CD** and **automated testing**
 
 ### 🌐 Full Stack Development
 <p align="left">
@@ -44,9 +61,9 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-4+years-E10098?logo=graphql&style=for-the-badge"/>
 </p>
 
-- Developed **high-traffic REST/GraphQL APIs** handling 10K+ RPM
-- Built **15+ PWAs** with Next.js and server-side rendering
-- **Cloud architecture** with AWS/Azure and Firebase
+- **Microservices Architecture** with Docker and Kubernetes
+- **Database Design** and Optimization
+- **API Security** and Best Practices
 
 ## 🛠️ Tech Stack
 
@@ -59,6 +76,16 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bobga&show_icons=true&theme=radical&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobga&layout=compact&theme=radical&hide_title=true"/>
+</div>
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes"/>
 </div>
 
 
