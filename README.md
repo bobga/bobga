@@ -65,10 +65,21 @@
 - **Database Design** and Optimization
 - **API Security** and Best Practices
 
+### 🤖 AI & Blockchain Development
+<p align="left">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-3+years-FF6F00?logo=tensorflow&style=for-the-badge"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-3+years-EE4C2C?logo=pytorch&style=for-the-badge"/>
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-2+years-363636?logo=solidity&style=for-the-badge"/>
+</p>
+
+- **Machine Learning** and **Deep Learning** implementations
+- **Smart Contract** development and **DeFi** protocols
+- **Blockchain Integration** and **Web3** solutions
+
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,react,laravel,nodejs,firebase,aws,azure,docker,git,graphql,mysql,postgres,html,css,js,tailwind&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,react,laravel,nodejs,firebase,aws,azure,docker,git,graphql,mysql,postgres,html,css,js,tailwind,tensorflow,pytorch,solidity&perline=9"/>
 </p>
 
 ## 📈 GitHub Stats
