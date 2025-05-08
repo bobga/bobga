@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/bobga?style=social)](https://github.com/bobga)
 [![Visitors](https://komarev.com/ghpvc/?username=bobga&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/bobga)
 
-🚀 **5+ Years Experience** in Flutter Development | 🍏 **8+ Years iOS Native** | 🔥 **Firebase & AWS Expert**
+🚀 **8+ Years Experience** in Flutter Development | 🍏 **10+ Years iOS Native** | 🔥 **Firebase & AWS Expert**
 
 > Passionate about creating exceptional mobile experiences and scalable solutions. Specializing in cross-platform development with Flutter and native iOS applications.
 
