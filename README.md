@@ -1,80 +1,88 @@
-# 👋 Hi, I'm @bobga | Senior Flutter & Mobile App Developer
+# 👋 Hi, I'm @bobga | Senior Flutter & Mobile Architect
 
-[![GitHub stars](https://img.shields.io/github/stars/bobga/bobga?style=social)](https://github.com/bobga/bobga/stargazers)
-[![GitHub followers](https://img.shields.io/github/followers/bobga?style=social)](https://github.com/bobga)
-[![Visitors](https://komarev.com/ghpvc/?username=bobga&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/bobga)
+<p align="center">
+  <a href="https://github.com/bobga">
+    <img src="https://img.shields.io/github/followers/bobga?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/bobga/bobga/stargazers">
+    <img src="https://img.shields.io/github/stars/bobga/bobga?style=social" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bobga&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-🚀 **8+ Years Experience** in Flutter Development | 🍏 **10+ Years iOS Native** | 🔥 **Firebase & AWS Expert**
+<p align="center">
+  🚀 8+ Years Flutter | 🍏 10+ Years iOS (Swift) | ☁️ Cloud & Scalable Systems
+</p>
 
-> Passionate about creating exceptional mobile experiences and scalable solutions. Specializing in cross-platform development with Flutter and native iOS applications.
+---
+
+## 💡 About Me
+
+Senior mobile engineer focused on building **scalable, high-performance applications** using Flutter and native iOS.
+
+- ✔️ Clean Architecture & Maintainable Code
+- ✔️ End-to-End Development (Idea → Production → Scaling)
+- ✔️ Performance Optimization & UX Excellence
+- ✔️ Cloud-Native Systems (AWS, Firebase, Azure)
+
+---
 
 ## 🎯 Current Focus
 
-- 🔥 Building scalable Flutter applications with clean architecture
-- 🌐 Developing cloud-native solutions with AWS and Firebase
-- 📱 Creating performant mobile experiences
-- 🤝 Open to exciting new opportunities and collaborations
+- 🚀 Scalable Flutter architecture
+- ☁️ Cloud-native backend systems
+- ⚡ Performance optimization
+- 🤝 Open to senior roles & consulting
 
-## 📫 Let's Connect
+---
+
+## 📫 Connect With Me
 
 <p align="left">
-  <!-- Telegram -->
   <a href="https://t.me/fluttercto">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@fluttercto-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a></br>
-  <!-- Gmail -->
+    <img src="https://img.shields.io/badge/Telegram-@fluttercto-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a><br/>
   <a href="mailto:virtium1000@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-virtium1000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a></br>
-  
-  <!-- Microsoft Teams -->
+    <img src="https://img.shields.io/badge/Email-virtium1000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a><br/>
   <a href="https://teams.microsoft.com/l/chat/0/0?users=virtium1000@gmail.com">
-    <img alt="Teams" src="https://img.shields.io/badge/Teams-Chat-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Microsoft%20Teams-Chat-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
   </a>
 </p>
 
-## 🏆 Notable Achievements
+---
 
-- 🏅 **50+ Production Flutter Apps** - Built with 95% code reuse
-- 🌟 **20+ iOS Apps** - Published on App Store with 4.8+ average rating
-- 🚀 **High-Performance APIs** - Developed REST/GraphQL APIs handling 10K+ RPM
-- 💻 **15+ PWAs** - Built with Next.js and server-side rendering
-- ☁️ **Cloud Architecture** - Expert in AWS/Azure and Firebase implementations
+## 🏆 Key Achievements
 
-## 🔥 Featured Skills
+- 📱 50+ Flutter apps (up to 95% shared codebase)
+- 🍎 20+ iOS apps (4.8⭐ average rating)
+- ⚡ APIs handling 10K+ requests/min
+- 🌐 15+ PWAs (Next.js, SSR)
+- ☁️ Cloud architectures (AWS, Firebase, Azure)
+
+---
+
+## 🔥 Core Skills
 
 ### 📱 Mobile Development
-<p align="left">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-Expert-02569B?logo=flutter&style=for-the-badge"/>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-Pro-0175C2?logo=dart&style=for-the-badge"/>
-  <img alt="iOS" src="https://img.shields.io/badge/iOS_Swift-8+years-FA7343?logo=swift&style=for-the-badge"/>
-</p>
+- Flutter (Expert), Dart, Swift
+- Bloc, Riverpod (state management)
+- Performance optimization
+- Native integrations
+- CI/CD & testing
 
-- Expert in **state management** (Riverpod, Bloc) and **performance optimization**
-- Specialized in **cross-platform development** and **native integration**
-- Proficient in **CI/CD** and **automated testing**
+### 🌐 Backend & Full Stack
+- Laravel, Node.js, GraphQL
+- Microservices (Docker, Kubernetes)
+- MySQL, PostgreSQL
+- API security & authentication
 
-### 🌐 Full Stack Development
-<p align="left">
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-10+years-FF2D20?logo=laravel&style=for-the-badge"/>
-  <img alt="React" src="https://img.shields.io/badge/React-5+years-61DAFB?logo=react&style=for-the-badge"/>
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-4+years-E10098?logo=graphql&style=for-the-badge"/>
-</p>
+### 🤖 AI & Blockchain
+- TensorFlow, PyTorch
+- Solidity & Smart Contracts
+- Web3 & DeFi integrations
 
-- **Microservices Architecture** with Docker and Kubernetes
-- **Database Design** and Optimization
-- **API Security** and Best Practices
-
-### 🤖 AI & Blockchain Development
-<p align="left">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-3+years-FF6F00?logo=tensorflow&style=for-the-badge"/>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-3+years-EE4C2C?logo=pytorch&style=for-the-badge"/>
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-2+years-363636?logo=solidity&style=for-the-badge"/>
-</p>
-
-- **Machine Learning** and **Deep Learning** implementations
-- **Smart Contract** development and **DeFi** protocols
-- **Blockchain Integration** and **Web3** solutions
+---
 
 ## 🛠️ Tech Stack
 
@@ -82,21 +90,30 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,swift,react,laravel,nodejs,firebase,aws,azure,docker,git,graphql,mysql,postgres,html,css,js,tailwind,tensorflow,pytorch,solidity&perline=9"/>
 </p>
 
+---
+
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bobga&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobga&layout=compact&theme=radical&hide_title=true"/>
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bobga&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobga&layout=compact&theme=radical" />
+</p>
 
-## 📊 Weekly Development Breakdown
+---
+
+## 📊 Weekly Development
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes"/>
-</div>
 
+## 🧠 Philosophy
 
+> Great software is engineered for scalability, performance, and long-term value.
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
