@@ -38,16 +38,22 @@ Senior mobile engineer focused on building **scalable, high-performance applicat
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://t.me/fluttercto">
-    <img src="https://img.shields.io/badge/Telegram-@fluttercto-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a><br/>
-  <a href="mailto:virtium1000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-virtium1000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a><br/>
-  <a href="https://teams.microsoft.com/l/chat/0/0?users=virtium1000@gmail.com">
-    <img src="https://img.shields.io/badge/Microsoft%20Teams-Chat-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
+<p align="center">
+  <a href="https://t.me/fluttercto" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@fluttercto-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  
+  <a href="mailto:virtium1000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-virtium1000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://teams.microsoft.com/l/chat/0/0?users=virtium1000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft%20Teams-Chat-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+Wizard+🧙‍♂️;Turning+Coffee+Into+Code+☕;Fixing+Bugs+I+Created+Myself+🐛;Real-Time+Systems+Enjoyer+⚡;Git+Conflict+Survivor+💀" />
 </p>
 
 ---
